@@ -1,0 +1,11 @@
+No,Tag,TagName
+1,numeric.random.int8
+2,numeric.random.int16
+3,numeric.random.int32
+4,numeric.random.uint64
+5,numeric.random.int8
+6,numeric.random.int8
+7,numeric.random.int8
+8,numeric.random.int8
+9,numeric.random.int8
+10,numeric.random.int8

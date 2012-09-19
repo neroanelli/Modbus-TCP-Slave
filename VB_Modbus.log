@@ -1,0 +1,3 @@
+行 34: 控件 MSComPort 的类 MSCommLib.MSComm 不是一个已加载的控件类。
+行 277: 控件 MSFlexGrid2 的类 MSFlexGridLib.MSFlexGrid 不是一个已加载的控件类。
+行 436: 控件 Wsk_Server 的类 MSWinsockLib.Winsock 不是一个已加载的控件类。
